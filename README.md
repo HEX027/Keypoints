@@ -86,7 +86,7 @@ A **1.5-second hold** is required before the full red confirmation banner fires,
 
 ### Normal State — Monitoring
 ```
-[ Screenshots/SS2.png ]
+![Normal State](Screenshots/SS2.png)
 ```
 *Description: Subject standing normally. ctOS HUD shows green "NOMINAL — NO THREAT" panel.*
 
@@ -95,7 +95,7 @@ A **1.5-second hold** is required before the full red confirmation banner fires,
 ### Anomaly Detected — Hands Raised ⚠️
 
 ```
-[ IScreenshots/SS1.png ]
+![Anomaly Dtected](Screenshots/SS1.png)
 ```
 *Description: Both arms raised. Red "!! ANOMALY DETECTED !!" panel is active. Centre banner reads ">>> THREAT CONFIRMED — HANDS UP DETECTED <<<". Skeleton overlay turns red.*
 
@@ -105,7 +105,7 @@ A **1.5-second hold** is required before the full red confirmation banner fires,
 
 ### Terminal Output
 ```
-[ Screenshots/SS3.png ]
+![Terminal Output](Screenshots/SS3.png)
 ```
 *Description: Docker container startup, ctOS header banner, and any console messages.*
 
