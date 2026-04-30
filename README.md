@@ -99,7 +99,6 @@ A **1.5-second hold** is required before the full red confirmation banner fires,
 
 *Description: Both arms raised. Red "!! ANOMALY DETECTED !!" panel is active. Centre banner reads ">>> THREAT CONFIRMED — HANDS UP DETECTED <<<". Skeleton overlay turns red.*
 
-> 📸 **Note:** The anomaly screenshot was captured using a **phone camera** aimed at the Jetson Orin Nano's display output, as the lab environment does not support remote screenshot capture.
 
 ---
 
@@ -168,10 +167,7 @@ The `draw_panel()` function renders a semi-transparent dark rectangle with corne
 
 ## 👤 Author
 
-| Field | Value |
-|---|---|
-| Name | `[ Amisha ]` |
-
+AMISHA GANVIR
 
 ---
 
