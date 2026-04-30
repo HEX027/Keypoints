@@ -84,18 +84,9 @@ A **1.5-second hold** is required before the full red confirmation banner fires,
 
 ## 🖼️ Results & Screenshots
 
-### Normal State — Monitoring
-> *Replace the placeholder below with your own screenshot.*
-
-```
-[ INSERT screenshot: normal_state.jpg ]
-```
-*Description: Subject standing normally. ctOS HUD shows green "NOMINAL — NO THREAT" panel.*
-
----
 
 ### Anomaly Detected — Hands Raised ⚠️
-[Anomaly Detected](screenshots/Screenshot from 2026-04-30 11-55-44.png)
+[Anomaly Detected](Screenshots/Screenshot from 2026-04-30 11-55-44.png)
 *Description: Both arms raised. Red "!! ANOMALY DETECTED !!" panel is active. Centre banner reads ">>> THREAT CONFIRMED — HANDS UP DETECTED <<<". Skeleton overlay turns red.*
 
 > 📸 **Note:** The anomaly screenshot was captured using a **phone camera** aimed at the Jetson Orin Nano's display output, as the lab environment does not support remote screenshot capture.
