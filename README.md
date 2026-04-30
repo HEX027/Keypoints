@@ -85,20 +85,17 @@ A **1.5-second hold** is required before the full red confirmation banner fires,
 ## 🖼️ Results & Screenshots
 
 ### Normal State — Monitoring
-> *Replace the placeholder below with your own screenshot.*
-
 ```
-[ INSERT screenshot: normal_state.jpg ]
+[ Screenshots/SS2.png ]
 ```
 *Description: Subject standing normally. ctOS HUD shows green "NOMINAL — NO THREAT" panel.*
 
 ---
 
 ### Anomaly Detected — Hands Raised ⚠️
-> *Take this photo with your phone aimed at the Jetson's monitor/display output.*
 
 ```
-[ INSERT screenshot: anomaly_detected.jpg ]
+[ IScreenshots/SS1.png ]
 ```
 *Description: Both arms raised. Red "!! ANOMALY DETECTED !!" panel is active. Centre banner reads ">>> THREAT CONFIRMED — HANDS UP DETECTED <<<". Skeleton overlay turns red.*
 
@@ -108,7 +105,7 @@ A **1.5-second hold** is required before the full red confirmation banner fires,
 
 ### Terminal Output
 ```
-[ INSERT screenshot: terminal_output.jpg ]
+[ Screenshots/SS3.png ]
 ```
 *Description: Docker container startup, ctOS header banner, and any console messages.*
 
