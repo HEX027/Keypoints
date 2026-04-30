@@ -6,8 +6,7 @@
 
 ## 🔗 GitHub Repository
 
-> **[[ INSERT YOUR GITHUB LINK HERE ]]**
-> e.g., `https://github.com/YOUR_USERNAME/lab6-keypoints`
+> **[(https://github.com/HEX027/keypoints)]**
 
 ---
 
@@ -96,24 +95,13 @@ A **1.5-second hold** is required before the full red confirmation banner fires,
 ---
 
 ### Anomaly Detected — Hands Raised ⚠️
-> *Take this photo with your phone aimed at the Jetson's monitor/display output.*
-
-```
-[ INSERT screenshot: anomaly_detected.jpg ]
-```
+[Anomaly Detected](screenshots/Screenshot from 2026-04-30 11-55-44.png)
 *Description: Both arms raised. Red "!! ANOMALY DETECTED !!" panel is active. Centre banner reads ">>> THREAT CONFIRMED — HANDS UP DETECTED <<<". Skeleton overlay turns red.*
 
 > 📸 **Note:** The anomaly screenshot was captured using a **phone camera** aimed at the Jetson Orin Nano's display output, as the lab environment does not support remote screenshot capture.
 
 ---
 
-### Terminal Output
-```
-[ INSERT screenshot: terminal_output.jpg ]
-```
-*Description: Docker container startup, ctOS header banner, and any console messages.*
-
----
 
 ## 📂 File Structure
 
@@ -122,9 +110,7 @@ lab6-keypoints/
 ├── watchdogs_keypoints.py   # Main Watch Dogs themed script
 ├── README.md                # This file
 └── screenshots/
-    ├── normal_state.jpg
     ├── anomaly_detected.jpg
-    └── terminal_output.jpg
 ```
 
 ---
@@ -174,10 +160,7 @@ The `draw_panel()` function renders a semi-transparent dark rectangle with corne
 
 | Field | Value |
 |---|---|
-| Name | `[ YOUR NAME ]` |
-| Course | `[ COURSE NAME / NUMBER ]` |
-| Date | `[ SUBMISSION DATE ]` |
-| Instructor | `[ INSTRUCTOR NAME ]` |
+| Name | `Amisha` |
 
 ---
 
